@@ -13,5 +13,5 @@ Data generated from the three simulations are in the respective directories here
 The data from the two lower-resolution simulations used in the Appendix are in the N128_L512/ and N128_L1536/ directories. 
 Each directory contains mock catalogs for a set of either 25 or 50 observers, each with 5 random rotations of coordinate directions.
 
-Each file contains the redshift (z), distance modulus (mu), luminosity distance (dL), and coordinates (HEALPix theta, phi) for each object in each mock catalog. 
+Each file contains the redshift (z), distance modulus (mu), luminosity distance (dL) in Mpc/h, and coordinates (HEALPix theta, phi) for each object in each mock catalog. 
 See the paper for details. 
