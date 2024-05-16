@@ -9,8 +9,9 @@ Any use of this data in publications or presentations please cite the paper at t
 
 Data description:
 
-Data generated from the 128^3 simulation is in low_res/ and data from the 256^3 simulation is in high_res/. They contain mock catalogs for 50 and 25 observers, respectively. 
-Each directory contains a tar file which contains five mock catalogs for each observer.
+Data generated from the three simulations are in the respective directories here. For example, N256_L1024/ contains data from the N=256^3 resolution simulation with physical box length L=1024 Mpc/h (the fiducial case). 
+The data from the two lower-resolution simulations used in the Appendix are in the N128_L512/ and N128_L1536/ directories. 
+Each directory contains mock catalogs for a set of either 25 or 50 observers, each with 5 random rotations of coordinate directions.
 
 Each file contains the redshift (z), distance modulus (mu), luminosity distance (dL), and coordinates (HEALPix theta, phi) for each object in each mock catalog. 
 See the paper for details. 
